@@ -1,0 +1,14 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.info {
+    font-weight: 700;
+    margin-top: 23px;
+}
+
+.pnotify {
+    position: absolute;
+    z-index: 1;
+    animation-duration: 1s;
+}
